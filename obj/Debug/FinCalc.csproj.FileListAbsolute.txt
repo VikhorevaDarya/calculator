@@ -1,0 +1,11 @@
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\bin\Debug\FinCalc.exe.config
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\bin\Debug\FinCalc.exe
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\bin\Debug\FinCalc.pdb
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\obj\Debug\FinCalc.csproj.AssemblyReference.cache
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\obj\Debug\FinCalc.Form_calc.resources
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\obj\Debug\FinCalc.Form_schedule.resources
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\obj\Debug\FinCalc.Properties.Resources.resources
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\obj\Debug\FinCalc.csproj.GenerateResource.cache
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\obj\Debug\FinCalc.csproj.CoreCompileInputs.cache
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\obj\Debug\FinCalc.exe
+C:\Users\vikho\Desktop\FinCalc-master\FinCalc\obj\Debug\FinCalc.pdb
